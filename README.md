@@ -157,5 +157,5 @@ The segmentation approach can be applied to:
 
 ## Author
 
-N.TirypatiRao and team
+N.TirupatiRao and team
 Undergraduate Project – Quantum-Inspired Image Segmentation
